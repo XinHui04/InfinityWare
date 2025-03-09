@@ -75,15 +75,23 @@ public class UserModule {
             users.add(new User(username, password, role));
             System.out.println("User registered successfully!");
         } else {
-            System.out.println("Username already exists. Please choose a different username.");
+            System.out.println("Account already exists.\nPlease login your account.");
+            loginUser();
         }
     }
 
     public static void loginUser() {
-        System.out.print("Enter username: ");
-        String username = scanner.nextLine();
-        System.out.print("Enter password: ");
-        String password = scanner.nextLine();
+        String username;
+        do {
+            System.out.print("Enter username: ");
+            username = scanner.nextLine();
+        } while (!validateUsername(username));
+
+        String password;
+        do {
+            System.out.print("Enter password (min 6 characters): ");
+            password = scanner.nextLine();
+        } while (!validatePassword(password));
 
         User user = findUserByUsername(username);
         if (user != null && user.checkPassword(password)) {
@@ -104,14 +112,17 @@ public class UserModule {
 
     private static boolean validateUsername(String username) {
         if (username == null || username.trim().isEmpty()) {
-            System.out.println("Username cannot be blank.");
+            System.out.println("Please fill in username.");
             return false;
         }
         return true;
     }
 
     private static boolean validatePassword(String password) {
-        if (password == null || password.length() < 6) {
+        if (password == null || password.trim().isEmpty()) {
+            System.out.println("Please fill in password.");
+            return false;
+        } else if (password.length() < 6) {
             System.out.println("Password must be at least 6 characters long.");
             return false;
         }
@@ -119,7 +130,10 @@ public class UserModule {
     }
 
     private static boolean validateRole(String role) {
-        if (role == null || (!role.equalsIgnoreCase("Admin") && !role.equalsIgnoreCase("Customer"))) {
+        if (role == null|| role.trim().isEmpty()) {
+            System.out.println("Please fill in role.");
+            return false;
+        } else if (!role.equalsIgnoreCase("Admin") && !role.equalsIgnoreCase("Customer")) {
             System.out.println("Role must be either 'Admin' or 'Customer'.");
             return false;
         }
