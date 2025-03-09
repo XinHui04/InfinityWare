@@ -68,5 +68,4 @@ public class UserModule {
         return null;
     }
 
-    private static
 }
