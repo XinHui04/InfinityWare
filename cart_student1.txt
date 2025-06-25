@@ -1,0 +1,4 @@
+P035,Oculus Quest 2 VR Headset,2500.0,1,Added
+P005,NVIDIA RTX 3080,3750.0,1,Added
+P001,Intel Core i7,94.0,13,Added
+P014,NVIDIA GeForce RTX 3070 Ti,2500.0,10,Added

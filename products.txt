@@ -1,0 +1,54 @@
+P002,DDR5 (16 GB),CC,750.0,0,Memory (RAM)
+P003,ATX,CC,800.0,92,Motherboard
+P004,SSD (SATA 500GB),CC,350.0,100,Storage
+P005,NVIDIA RTX 3080,CC,99.0,100,Graphics Card (GPU)
+P006,Air Coolers,CC,150.0,100,Cooling System
+P007,Modular (650W - 850W),CC,500.0,100,Power Supply
+P008,ATX Cases,CC,450.0,100,PC Case
+P009,Network Interface Cards (NIC),CC,200.0,101,Network Interface
+P010,Internal Sound Cards,CC,300.0,44,Sound Card
+P011,AMD Ryzen 7 5800X,CC,1500.0,31,Processor (CPU)
+P012,Kingston FURY Beast 16GB DDR5 5200MHz,CC,346.0,100,Memory (RAM)
+P013,ASUS ROG Strix B550-F Gaming,CC,800.0,100,Motherboard - ATX
+P015,Cooler Master Hyper 212 Black Edition,CC,150.0,100,Cooling System
+P016,Corsair RM750x 750W Modular PSU,CC,500.0,100,Power Supply
+P017,NZXT H510 ATX Mid Tower Case,CC,450.0,100,PC Case
+P018,TP-Link TX3000E Wi-Fi 6 PCIe Adapter,CC,200.0,100,Network Interface
+P019,Creative Sound Blaster Z SE,CC,300.0,100,Sound Card
+P020,Wireless Keyboard,PA,450.0,98,Keyboard - Wireless
+P021,Wireless Mouse,PA,250.0,100,Mouse - Wireless
+P022,Gaming Monitor,PA,1600.0,100,Monitor - Gaming
+P023,Full HD/Streaming Webcam,PA,57.0,100,Webcam
+P024,External HDD,PA,280.0,100,External Storage
+P025,Advanced Surge Protector,PA,300.0,100,Surge Protector
+P026,Premium/Pro Model Gaming Console,PA,3500.0,100,Gaming Console
+P027,Standalone VR Headset,PA,2500.0,108,VR Headset
+P028,Logitech MX Keys Wireless Keyboard,PA,450.0,100,Keyboard - Wireless
+P029,Logitech MX Master 3S Wireless Mouse,PA,250.0,100,Mouse - Wireless
+P030,ASUS TUF Gaming VG27AQ 27" Monitor,PA,1600.0,100,Monitor - Gaming
+P031,Logitech C920 HD Pro Webcam,PA,300.0,100,Webcam - Full HD
+P032,Seagate Backup Plus 2TB External HDD,PA,280.0,100,External Storage
+P033,Belkin 8-Outlet Surge Protector,PA,300.0,11111,Surge Protector
+P034,Sony PlayStation 5 Console,PA,3500.0,100,Gaming Console
+P035,Oculus Quest 2 VR Headset,PA,46.0,93,VR Headset
+P036,Wired Routers,NC,559.0,100,Router
+P037,Switches,NC,1000.0,100,Switch
+P038,Hubs,NC,100.0,100,Hub
+P039,Cable Modems,NC,300.0,100,Modem
+P040,Gateways,NC,500.0,100,Gateway
+P041,VPNs,NC,650.0,100,VPN
+P042,Network Adapter,NC,100.0,100,Adapter
+P043,Repeater,NC,200.0,100,Repeater
+P044,Ethernet Cables,NC,30.0,100,Cable
+P045,Converters,NC,35.0,100,Converter
+P046,TP-Link Archer AX6000 Wi-Fi 6 Router,NC,559.0,100,Router - Wired
+P047,Netgear GS308 8-Port Gigabit Switch,NC,1000.0,100,Switch
+P048,D-Link DUB-H7 7-Port USB 2.0 Hub,NC,100.0,100,Hub
+P049,Motorola MB7621 Cable Modem,NC,300.0,100,Modem - Cable
+P050,Ubiquiti UniFi Security Gateway,NC,500.0,100,Gateway
+P051,NordVPN 1-Year Subscription,NC,650.0,100,VPN
+P052,TP-Link UE300 USB 3.0 to Gigabit Adapter,NC,100.0,100,Network Adapter
+P053,TP-Link RE650 AC2600 Wi-Fi Range Extender,NC,200.0,100,Repeater
+P054,Cat6 Ethernet Cable 5m,NC,30.0,100,Cable - Ethernet
+P055,UGREEN USB to Ethernet Converter,NC,35.0,100,Converter
+P056,laptop,CC,100.0,800,asd asd asd

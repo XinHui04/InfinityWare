@@ -1,0 +1,2 @@
+student1,0161234567,student1@student.tarc.edu.my,Student1!,Student
+tester,0169506919,leejs-wp23@student.tarc.edu.my,Tester@123,Student

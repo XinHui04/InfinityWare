@@ -1,0 +1,8 @@
+P035,Oculus Quest 2 VR Headset,98.0,48,Added
+P025,Advanced Surge Protector,300.0,3,Added
+P011,AMD Ryzen 7 5800X,1500.0,31,Added
+P020,Wireless Keyboard,450.0,2,Added
+P003,ATX,800.0,235,Added
+P004,SSD (SATA 500GB),350.0,110,Added
+P005,NVIDIA RTX 3080,99.0,5,Added
+P006,Air Coolers,150.0,105,Added

@@ -1,0 +1,302 @@
+Q: What can I do after logging in?
+A: After logging in, you can view products, check your cart, view your order history, request a refund, update your profile, or chat with support.
+
+Q: How do I view available products?
+A: Select option 1 from the main menu to view products categorized by Computer Components, Peripherals & Accessories, and Networking & Connectivity.
+
+Q: How can I search or sort products?
+A: After selecting a category, you'll see options to add products to your cart, search for a product, or sort them by price.
+
+Q: How can I sort products?
+A: After selecting a category, you'll see options to add products to your cart, search for a product, or sort them by price.
+
+Q: How can I sort item in the product list?
+A: After selecting a category, you'll see options to add products to your cart, search for a product, or sort them by price.
+
+Q: How can I search products?
+A: After selecting a category, you'll see options to add products to your cart, search for a product.
+
+Q: How can I search item in the product list?
+A: After selecting a category, you'll see options to add products to your cart, search for a product.
+
+Q: Where can I view the product list?
+A: In the main menu, select choose No.1 then choose the category that you wanted to view.
+
+Q: What are the category that your system provide?
+A: Computer Components, Peripherals & Accessories, and Networking & Connectivity.
+
+Q: What happens during checkout?
+A: During checkout, you select the quantity, set a valid delivery date, choose a payment method, and a receipt will be generated.
+
+Q: What are the payment options?
+A: You can pay using Touch 'n Go, Online Banking, or Credit Card.
+
+Q: What payment methods can I use?
+A: You can pay using Touch 'n Go, Online Banking, or Credit Card.
+
+Q: How do I pay?
+A: You can pay using Touch 'n Go, Online Banking, or Credit Card.
+
+Q: Can I use credit card to pay?
+A: Yes, you can use a Credit Card, as well as Touch 'n Go and Online Banking.
+
+Q: Is online banking accepted?
+A: Yes, you can use Online Banking, Credit Card, or Touch 'n Go.
+
+Q: What are the delivery rules?
+A: Deliveries must be scheduled at least 7 days in advance, not on Sundays, and within this or next month only.
+
+Q: How do I update my profile?
+A: Go to menu option 5 to change your username, phone number, email, or password.
+
+Q: What happens if I cancel an order?
+A: Cancellations require admin approval. Once approved, you may request a refund, which also needs to be accepted by you to process.
+
+Q: What if my payment fails?
+A: If your payment fails, you will be prompted to retry the transaction or choose another method.
+
+Q: Can I chat with support?
+A: Yes, select option 6 in the main menu to chat in real time.
+
+Q: What is the price of the Intel Core i7 processor?
+A: The Intel Core i7 processor is priced at RM1000.00.
+
+Q: Do you sell DDR5 RAM?
+A: Yes, we offer DDR5 (16 GB) RAM for RM750.00.
+
+Q: Why is it so expensive?
+A: Higher specifications often come with a higher price, but they also offer better quality.
+
+Q: Why is the price so high?
+A: Higher specifications often come with a higher price, but they also offer better quality.
+
+Q: Is the price negotiable?
+A: Prices are fixed and based on product quality and specifications.
+
+Q: What is the price range for your products?
+A: Product prices range from RM100 to RM4000, depending on specifications.
+
+Q: How much do your products cost?
+A: Our product prices range from RM100 to RM4000 depending on the category and specifications.
+
+Q: Which GPU do you have in stock?
+A: We have the NVIDIA RTX 3080 graphics card available for RM3750.00.
+
+Q: Can I add a motherboard to my cart?
+A: Yes, go to the Computer Components category, find the ATX motherboard, and select "Add Product to Cart".
+
+Q: How do I sort products from low to high?
+A: After viewing products, select "Sort Products by Price", then choose "Price - Low to High".
+
+Q: Why can’t I choose next week for delivery?
+A: Delivery must be scheduled at least 7 days from today and cannot be on Sundays or beyond next month.
+
+Q: What are the delivery restrictions?
+A: Deliveries are not allowed on Sundays, must be at least 7 days from today, and within this or next month.
+
+Q: What’s in the Peripherals & Accessories category?
+A: This includes keyboards, mice, monitors, webcams, external storage, surge protectors, gaming consoles, and VR headsets.
+
+Q: What network devices are available?
+A: Networking products include routers, switches, hubs, modems, gateways, VPNs, adapters, repeaters, and Ethernet cables.
+
+Q: How do I change my email address?
+A: Go to the Profile menu (option 5), then select option 3 to change your email.
+
+Q: Can I cancel an order from order history?
+A: Yes, go to your order history and choose to cancel. The cancellation will be pending admin approval.
+
+Q: How do I accept a refund?
+A: Once your cancellation is approved, you'll can get your refund by accept the refund at menu selection '4. Get Refund'.
+
+Q: Can I pay on delivery?
+A: Currently, we only accept Touch 'n Go, Online Banking, and Credit Card.
+
+Q: When can I get my order delivered?
+A: Deliveries must be scheduled at least 7 days in advance, not on Sundays, and within this or next month.
+
+Q: What is the delivery policy?
+A: Deliveries must be scheduled at least 7 days in advance, not on Sundays, and within this or next month.
+
+Q: Can I cancel my order?
+A: Yes, but cancellations require admin approval before processing.
+
+Q: How can I cancel my order?
+A: Go to your order history and choose to cancel. The cancellation will be pending admin approval.
+
+Q: How can I add products to cart?
+A: After selecting a category, you'll see options to add products to your cart, search, or sort by price.
+
+Q: Can I buy a motherboard?
+A: Yes, go to the Computer Components category, find the ATX motherboard, and select "Add Product to Cart".
+
+Q: What computer parts do you sell?
+A: We offer Computer Components, Peripherals & Accessories, and Networking & Connectivity devices.
+
+Q: Do you sell gaming equipment?
+A: Yes, under Peripherals & Accessories, we offer gaming consoles and VR headsets.
+
+Q: How do I update my profile?
+A: Go to menu option 5 to change your username, phone number, email, or password.
+
+Q: How do I change my profile details?
+A: Go to menu option 5 to change your username, phone number, email, or password.
+
+Q: Can I edit my account information?
+A: Yes, go to the Profile section (option 5) to update your details.
+
+Q: Where can I change my password?
+A: Go to the Profile menu (option 5), then select option 4 to change your password.
+
+Q: How do I change my username?
+A: Go to the Profile menu (option 5), then select option 1 to change your username.
+
+Q: How do I change my email address?
+A: Go to the Profile menu (option 5), then select option 3 to change your email.
+
+Q: How do I change my phone number?
+A: Go to the Profile menu (option 5), then select option 2 to change your phone number.
+
+Q: Can I manage my profile settings?
+A: Yes, go to menu option 5 to manage and update your profile details.
+
+Q: Is it possible to update my email?
+A: Yes, go to Profile (option 5), then choose option 3 to update your email address.
+
+Q: I want to reset my password.
+A: You can reset your password under the Profile section (option 5), by selecting option 4.
+
+Q: How do I access my account settings?
+A: Your account settings can be found under the Profile section (menu option 5).
+
+Q: Do you have laptops available?
+A: Currently, Infinity Ware focuses on computer components and accessories; laptops are not listed in our inventory.
+
+Q: Can I check if a product is in stock?
+A: Yes, after selecting a product category, availability will be shown next to each item.
+
+Q: Do you restock out-of-stock items?
+A: Yes, restocking happens regularly. You may check back later or contact support for updates.
+
+Q: Can I view what's in my cart?
+A: Yes, select option 2 from the main menu to view and manage your cart.
+
+Q: Can I remove an item from my cart?
+A: Yes, go to your cart (option 2), then select the item you wish to remove.
+
+Q: Can I change the quantity of items in my cart?
+A: Yes, in the cart menu, select the item and update its quantity before checking out.
+
+Q: How do I choose a delivery date?
+A: During checkout, you will be prompted to select a delivery date that follows our delivery rules.
+
+Q: Can I track my delivery?
+A: Tracking is not currently available, but you will receive confirmation upon successful processing.
+
+Q: How to end the chat?
+A: Just enter 'end' then chat will be ended.
+
+Q: What is your system name?
+A: Infinity Ware.
+
+Q: What is Infinity Ware?
+A: Infinity Ware is a comprehensive Computer Retail Management System (CRMS) designed to streamline the process of managing and selling computer components, peripherals, and networking devices. Our platform offers users a seamless shopping experience, allowing for efficient order processing, secure payments, and reliable deliveries.
+
+Q: Can you tell me more about Infinity Ware?
+A: Infinity Ware is a comprehensive Computer Retail Management System (CRMS) designed to streamline the process of managing and selling computer components, peripherals, and networking devices. Our platform offers users a seamless shopping experience, allowing for efficient order processing, secure payments, and reliable deliveries.
+
+Q: What is the purpose of Infinity Ware?
+A: Infinity Ware is a comprehensive Computer Retail Management System (CRMS) designed to streamline the process of managing and selling computer components, peripherals, and networking devices. Our platform offers users a seamless shopping experience, allowing for efficient order processing, secure payments, and reliable deliveries.
+
+Q: What does Infinity Ware do?
+A: Infinity Ware is a comprehensive Computer Retail Management System (CRMS) designed to streamline the process of managing and selling computer components, peripherals, and networking devices. Our platform offers users a seamless shopping experience, allowing for efficient order processing, secure payments, and reliable deliveries.
+
+Q: Can you explain what Infinity Ware is all about?
+A: Infinity Ware is a comprehensive Computer Retail Management System (CRMS) designed to streamline the process of managing and selling computer components, peripherals, and networking devices. Our platform offers users a seamless shopping experience, allowing for efficient order processing, secure payments, and reliable deliveries.
+
+Q: What services do you provide through Infinity Ware?
+A: Infinity Ware is a comprehensive Computer Retail Management System (CRMS) designed to streamline the process of managing and selling computer components, peripherals, and networking devices. Our platform offers users a seamless shopping experience, allowing for efficient order processing, secure payments, and reliable deliveries.
+
+Q: Why should I use Infinity Ware?
+A: Infinity Ware simplifies and enhances the experience of purchasing computer hardware and accessories. With features like easy navigation, secure payment options, flexible delivery schedules, and robust customer support, we ensure that both businesses and individuals can meet their technology needs with ease and confidence.
+
+Q: What makes Infinity Ware stand out from other systems?
+A: Infinity Ware simplifies and enhances the experience of purchasing computer hardware and accessories. With features like easy navigation, secure payment options, flexible delivery schedules, and robust customer support, we ensure that both businesses and individuals can meet their technology needs with ease and confidence.
+
+Q: What are the benefits of using Infinity Ware?
+A: Infinity Ware simplifies and enhances the experience of purchasing computer hardware and accessories. With features like easy navigation, secure payment options, flexible delivery schedules, and robust customer support, we ensure that both businesses and individuals can meet their technology needs with ease and confidence.
+
+Q: How does Infinity Ware help customers?
+A: Infinity Ware simplifies and enhances the experience of purchasing computer hardware and accessories. With features like easy navigation, secure payment options, flexible delivery schedules, and robust customer support, we ensure that both businesses and individuals can meet their technology needs with ease and confidence.
+
+Q: What advantages does Infinity Ware offer?
+A: Infinity Ware simplifies and enhances the experience of purchasing computer hardware and accessories. With features like easy navigation, secure payment options, flexible delivery schedules, and robust customer support, we ensure that both businesses and individuals can meet their technology needs with ease and confidence.
+
+Q: What is the mission of Infinity Ware?
+A: Our mission at Infinity Ware is to make purchasing and managing computer hardware easier, more efficient, and secure for both businesses and customers. We aim to be the go-to platform for anyone in need of high-quality computer components, peripherals, and networking devices.
+
+Q: What’s the goal behind Infinity Ware?
+A: Our mission at Infinity Ware is to make purchasing and managing computer hardware easier, more efficient, and secure for both businesses and customers. We aim to be the go-to platform for anyone in need of high-quality computer components, peripherals, and networking devices.
+
+Q: What is Infinity Ware trying to achieve?
+A: Our mission at Infinity Ware is to make purchasing and managing computer hardware easier, more efficient, and secure for both businesses and customers. We aim to be the go-to platform for anyone in need of high-quality computer components, peripherals, and networking devices.
+
+Q: Can you share the mission of Infinity Ware?
+A: Our mission at Infinity Ware is to make purchasing and managing computer hardware easier, more efficient, and secure for both businesses and customers. We aim to be the go-to platform for anyone in need of high-quality computer components, peripherals, and networking devices.
+
+Q: Why was Infinity Ware created?
+A: Our mission at Infinity Ware is to make purchasing and managing computer hardware easier, more efficient, and secure for both businesses and customers. We aim to be the go-to platform for anyone in need of high-quality computer components, peripherals, and networking devices.
+
+Q: Who created Infinity Ware?
+A: Infinity Ware was created by a team of experienced professionals passionate about technology and retail. Our goal is to bring a cutting-edge, user-friendly system to the computer retail industry to benefit both businesses and consumers.
+
+Q: Who is behind Infinity Ware?
+A: Infinity Ware was created by a team of experienced professionals passionate about technology and retail. Our goal is to bring a cutting-edge, user-friendly system to the computer retail industry to benefit both businesses and consumers.
+
+Q: Can you tell me about the team behind Infinity Ware?
+A: Infinity Ware was created by a team of experienced professionals passionate about technology and retail. Our goal is to bring a cutting-edge, user-friendly system to the computer retail industry to benefit both businesses and consumers.
+
+Q: Who developed Infinity Ware?
+A: Infinity Ware was created by a team of experienced professionals passionate about technology and retail. Our goal is to bring a cutting-edge, user-friendly system to the computer retail industry to benefit both businesses and consumers.
+
+Q: How does Infinity Ware help businesses?
+A: Infinity Ware is designed to help businesses efficiently manage inventory, process orders, and handle customer relationships. With powerful tools for tracking sales, managing stock levels, and handling payments securely, businesses can focus on growth while we take care of the rest.
+
+Q: How can businesses benefit from using Infinity Ware?
+A: Infinity Ware is designed to help businesses efficiently manage inventory, process orders, and handle customer relationships. With powerful tools for tracking sales, managing stock levels, and handling payments securely, businesses can focus on growth while we take care of the rest.
+
+Q: What features does Infinity Ware have for businesses?
+A: Infinity Ware is designed to help businesses efficiently manage inventory, process orders, and handle customer relationships. With powerful tools for tracking sales, managing stock levels, and handling payments securely, businesses can focus on growth while we take care of the rest.
+
+Q: Does Infinity Ware support businesses in managing inventory?
+A: Infinity Ware is designed to help businesses efficiently manage inventory, process orders, and handle customer relationships. With powerful tools for tracking sales, managing stock levels, and handling payments securely, businesses can focus on growth while we take care of the rest.
+
+Q: Can Infinity Ware help businesses manage their sales and customers?
+A: Infinity Ware is designed to help businesses efficiently manage inventory, process orders, and handle customer relationships. With powerful tools for tracking sales, managing stock levels, and handling payments securely, businesses can focus on growth while we take care of the rest.
+
+Q: What kind of products can I find on Infinity Ware?
+A: Infinity Ware offers a wide variety of computer components, peripherals & accessories, and networking devices. Whether you need gaming components, office equipment, or networking solutions, we have the products to meet your needs.
+
+Q: What products are available through Infinity Ware?
+A: Infinity Ware offers a wide variety of computer components, peripherals & accessories, and networking devices. Whether you need gaming components, office equipment, or networking solutions, we have the products to meet your needs.
+
+Q: What type of tech products does Infinity Ware offer?
+A: Infinity Ware offers a wide variety of computer components, peripherals & accessories, and networking devices. Whether you need gaming components, office equipment, or networking solutions, we have the products to meet your needs.
+
+Q: Does Infinity Ware sell computer hardware?
+A: Infinity Ware offers a wide variety of computer components, peripherals & accessories, and networking devices. Whether you need gaming components, office equipment, or networking solutions, we have the products to meet your needs.
+
+Q: What kind of computer accessories are available on Infinity Ware?
+A: Infinity Ware offers a wide variety of computer components, peripherals & accessories, and networking devices. Whether you need gaming components, office equipment, or networking solutions, we have the products to meet your needs.
+
+Q: What are the cheaper items?
+A: Air cooling systems are among the cheaper items, with prices starting from RM150.
+
+Q: What are the cheaper product?
+A: Air cooling systems are among the cheaper products, with prices starting from RM150.
+
+Q: What are the expensive items?
+A: Gaming Consoles are the most expansive items, with prices starting from RM3500.
+
+Q: What are the expensive product?
+A: Gaming Consoles are the most expansive products, with prices starting from RM3500.
